@@ -9,15 +9,12 @@ The project demonstrates how raw transactional bike sales data from Apex Motors 
 │
 ├── data/
 │   ├── raw/
-│   │   └── Apex_Motors_Bike_Sales_Raw.csv
-│   ├── cleaned/
-│   │   └── Apex_Motors_Bike_Sales_Cleaned.xlsx
-│
-├── excel/
-│   └── Apex_Motors_MIS_Ops_Tracker.xlsx
+│   │   └── Apex_Motors - Sales_data.csv
+│   ├── MIS/
+│   │   └── MIS.xlsx
 │
 ├── sop/
-│   └── MIS_and_Ops_Tracker_SOP.docx
+│   └──SOP-Apex Motors PVT LTD.pdf
 │
 └── README.md
 
